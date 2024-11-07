@@ -16,11 +16,12 @@
 title: Ju Pan
 email: jpan0826@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, my name is Ju Pan. A first year Computer Science Master student at NEU Sillicon Valley
+  Hi, my name is Ju Pan. A first year Computer Science Master student at NEU Silicon Valley
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jpan0826.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jpan0826
+linkedin_username: ju-pan-4a0851a3
 
 # Build settings
 markdown: kramdown
